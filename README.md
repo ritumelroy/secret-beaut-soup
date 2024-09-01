@@ -13,14 +13,10 @@ Note: I didn't upload the google doc link because I didn't want my drive link la
 The data would have 3 columns like so
 
 x | code | y
+
 0 | █ | 0
 ...
 
-The decrypted secret code formed from coordinates could look like  
-████████░&nbsp;&nbsp;&nbsp;██████░&nbsp;&nbsp;&nbsp;&nbsp;██████████░
-██░&nbsp;&nbsp;&nbsp;&nbsp;██░&nbsp;&nbsp;&nbsp;██░&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██░
-██░&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██░&nbsp;&nbsp;██░&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██░
-██░&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██░&nbsp;&nbsp;██░&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;████████░
-██░&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██░&nbsp;&nbsp;██░&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██░  
-██░&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██░&nbsp;&nbsp;&nbsp;██░&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██░
-████████░&nbsp;&nbsp;&nbsp;&nbsp;████░&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██░
+The decrypted secret code formed from coordinates could look like
+
+![alt text](secret.png)
